@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents?style=social" alt="Stars Badge"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents?style=social" alt="Stars_Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents?style=social" alt="Forks Badge"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Autonomous-AI-Developer-Agents/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
@@ -77,9 +77,9 @@ The following table evaluates the leading commercial and enterprise autonomous d
 
 ## 💻 Open-Source GitHub Projects
 
-The following curated open-source autonomous agents, coding executors, and SWE frameworks are sorted by **GitHub Star Count in descending order**. Every badge links directly to that repository's stargazers page.
+The following curated open-source autonomous agents, coding executors, and SWE frameworks are sorted by **GitHub Stars_Count in descending order**. Every badge links directly to that repository's stargazers page.
 
-| Repository | GitHub Stars Badge | Primary Language | Description & Key Features |
+| Repository | GitHub_Stars_Badge | Primary Language | Description & Key Features |
 | :--- | :---: | :---: | :--- |
 | **[anomalyco/opencode](https://github.com/anomalyco/opencode)** | [![Stars](https://img.shields.io/github/stars/anomalyco/opencode?style=social&color=white)](https://github.com/anomalyco/opencode/stargazers) | Go / TypeScript | High-speed open-source terminal-first coding agent built for multi-provider LLM orchestration, LSP-powered symbol navigation, and autonomous sessions. |
 | **[Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)** | [![Stars](https://img.shields.io/github/stars/Significant-Gravitas/AutoGPT?style=social&color=white)](https://github.com/Significant-Gravitas/AutoGPT/stargazers) | Python | Foundational autonomous agent framework providing long-term memory, modular agent chains, web browsing, and multi-step execution. |
@@ -118,7 +118,7 @@ Contributions are warmly welcome! Help us keep this directory accurate, up-to-da
 
 1. 🍴 **Fork the repository** to your personal account.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-new-agent`).
-3. 📝 **Add your entry** following the tabular or bulleted format (include platform name, official URL, pricing/free tier details, or repository star badge).
+3. 📝 **Add your entry** following the tabular or bulleted format (include platform name, official URL, pricing/free tier details, or repository Stars_Badge).
 4. 📬 **Submit a Pull Request** with a brief summary of the changes and factual links to official sources.
 
 ---
